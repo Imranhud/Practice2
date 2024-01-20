@@ -7,7 +7,7 @@ let message2 = ('imran');
 // alert(`hello, ${myName}! I hope you are good `);
 
 // if and else if comment ( Reserved Keywords)
-
+const main=["djfsd"];
 let hour = 17; hour = 12;
 if (hour >=6 && hour < 12)
     console.log(   'Good Morning');
