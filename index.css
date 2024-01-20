@@ -13,6 +13,8 @@ body{
 }
 .nav{
     display: flex;
+    background-color: beige;
+    color: #000;
 }
 @media screen and (min-width:400px) {
     .boxes{
