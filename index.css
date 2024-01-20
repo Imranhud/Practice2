@@ -9,7 +9,7 @@ img{
 
 }
 body{
-    background-color: red;
+    background: red;
 }
 @media screen and (min-width:400px) {
     .boxes{
