@@ -1,0 +1,21 @@
+img{
+    height: 50vh;
+    width: 70vw;
+    margin: 10px;
+}
+.boxes{
+
+    display:flex;
+
+}
+body{
+    background-color: aqua;
+}
+@media screen and (min-width:400px) {
+    .boxes{
+
+        display:flex;
+        flex-direction: column;
+    
+    }
+}
