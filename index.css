@@ -11,6 +11,9 @@ img{
 body{
     background: red;
 }
+.nav{
+    display: flex;
+}
 @media screen and (min-width:400px) {
     .boxes{
 
