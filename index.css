@@ -4,7 +4,7 @@ img{
     margin: 10px;
 }
 body{
-    background: rgb(87, 35, 35);
+    background: rgb(233, 190, 190);
     margin: 0;
 }
 .nav{
@@ -12,7 +12,7 @@ body{
     background-color: rgb(56, 56, 7);
     color: #eedcdc;
     padding: px;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
 }
 .nav-item{
@@ -22,9 +22,10 @@ body{
     justify-content: space-evenly;
     margin-right: 13.1%;
     /* margin-right: auto; */
-
-
-
+}
+.item-list{
+    color: aliceblue;
+    text-align: center;
 }
 @media screen and (min-width:400px) {
     .boxes{
